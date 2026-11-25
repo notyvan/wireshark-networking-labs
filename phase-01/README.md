@@ -69,21 +69,21 @@ This capture also demonstrated that multiple infrastructure could be involved, a
 ## 5. Evidence
 
 **Type A Query**
-![Type A DNS Query](phase-01\images\image-4.png)
-![Detailed information on Type A DNS query](phase-01\images\image-5.png)
+![Type A DNS Query](images/image-4.png)
+![Detailed information on Type A DNS query](images/image-5.png)
 
 
 **Type AAAA Query**
-![Type AAAA DNS Query](phase-01\images\image.png)
-![Detailed Information on DNS Query](phase-01\images\image-1.png)
+![Type AAAA DNS Query](images/image.png)
+![Detailed Information on DNS Query](images/image-1.png)
 
 **Type A Query of avatars.githubusercontent.com**
-![Type A Query of a different github domain](phase-01\images\image-2.png)
+![Type A Query of a different github domain](images/image-2.png)
 
-** Type A With CNAME **
+**Type A With CNAME**
 github-cloud.s3.amazonaws.com
-![DNS query of github-cloud.s3.amazonaws.com](phase-01\images\image-6.png)
-![Detailed Information of github-cloud.s3.amazonaws.com DNS query](phase-01\images\image-7.png)
+![DNS query of github-cloud.s3.amazonaws.com](images/image-6.png)
+![Detailed Information of github-cloud.s3.amazonaws.com DNS query](images/image-7.png)
 
 
 
